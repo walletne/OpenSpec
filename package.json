@@ -45,6 +45,8 @@
     "swagger",
     "specification",
     "editor",
-    "validator"
+    "validator",
+    "rest",
+    "json-schema"
   ]
 }
